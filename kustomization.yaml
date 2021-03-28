@@ -3,4 +3,4 @@ kind: Kustomization
 patches:
   - replica_count.yaml
 resources:
-  - https:https://github.com/shivakumar12/kustomize-guestbook-dev-config/?ref=v0.0.1
+  - https://github.com/shivakumar12/kustomize-guestbook-dev-config/?ref=v0.0.1
